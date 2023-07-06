@@ -1,0 +1,4 @@
+.DS_Store
+
+# Omit demo projects
+bootstrap-v5.3
