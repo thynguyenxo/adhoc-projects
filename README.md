@@ -3,6 +3,10 @@ This repository was created to store ad-hoc mini-projects I built to improve my 
 
 Check out my live demo for the following completed projects.
 
+* [Ad-hoc projects](#ad-hoc-projects)
+    * [Color generator](#color-generator)
+
+
 ### Color generator
 A simple webapp generating RGB and HEX codes when clicking on the corresponding buttons located in the navbar.
 ![color-generator-desktop-screenshot](./screenshots/color-generator.png)
