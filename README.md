@@ -6,5 +6,5 @@ A simple web app generates RGB and HEX codes when clicking on the corresponding 
 
 ![color-generator-desktop-screenshot](./screenshots/color-generator.png)
 
-⚙️ Built with: HTML, SCSS, and JavaScript
-🔗 Live demo: [Link here](https://thynguyen.dev/adhoc-projects/color-generator/index.html)
+- ⚙️ Built with HTML, SCSS, and JavaScript
+- 🔗 Live demo: [Link here](https://thynguyen.dev/adhoc-projects/color-generator/index.html)
