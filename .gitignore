@@ -1,4 +1,5 @@
 .DS_Store
 
 # Omit demo projects
-bootstrap-v5.3
+demo-bootstrap-v5.3
+demo-tailwind-v3.3.2

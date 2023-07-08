@@ -3,6 +3,7 @@ This repository was created to host and showcase ad-hoc mini-projects I built wi
 
 * [Ad-hoc projects](#ad-hoc-projects)
     * [Color generator](#color-generator)
+    * [Simple counter](#simple-counter)
 
 ---
 
@@ -13,3 +14,6 @@ A simple web app generates RGB and HEX codes when clicking on the corresponding 
 
 - ⚙️ Built with HTML, SCSS, and JavaScript
 - 🔗 Live demo: [Link here](https://thynguyen.dev/adhoc-projects/color-generator/index.html)
+
+
+### Simple counter
