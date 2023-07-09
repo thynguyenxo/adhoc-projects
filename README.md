@@ -18,7 +18,7 @@ A simple web app generates RGB and HEX codes when clicking on the corresponding 
 ### Simple counter
 A simple counter displays positive values in green, negative values are displayed in red, and a reset button to reset back to zero.
 
-![simple-counter-desktop-screenshot](simple-counter.png)
+![simple-counter-desktop-screenshot](./screenshots/simple-counter.png)
 
 - ⚙️ Built with HTML, SCSS, and JavaScript
 - 🔗 Live demo: [Link here](https://thynguyen.dev/adhoc-projects/simple-counter/index.html)
