@@ -27,7 +27,7 @@ A simple counter displays positive values in green, negative values are displaye
 ### Review gallery
 Go through reviews with options to go back and go to the next review, as well as generate a random review by clicking on the 'Surprise Me' button.
 
-![review-gallery-desktop-screenshot](review-gallery.png)
+![review-gallery-desktop-screenshot](./screenshots/review-gallery.png)
 
 - ⚙️ Built with HTML, SCSS, and JavaScript
 - 🔗 Live demo: [Link here](https://thynguyenxo.github.io/adhoc-projects/review-gallery/index.html)
